@@ -1,0 +1,7 @@
+
+bin_PROGRAMS = invite
+
+invite_CPPFLAGS  = $(AM_CPPFLAGS)
+invite_CPPFLAGS += $(SOFIASIP_CFLAGS)
+
+invite_LDADD = $(SOFIASIP_LIBS)

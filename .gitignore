@@ -1,0 +1,15 @@
+*~
+.deps
+.libs
+*.o
+Makefile
+Makefile.in
+/autom4te.*
+/aclocal.m4
+/config.*
+/configure
+/depcomp
+/install-sh
+/missing
+/stamp-*
+/*.tar.*
