@@ -2,7 +2,7 @@
 
 Really simple SIP REGISTER/INVITE utility, using sofia-sip.
 
-Does not support audio and video, in fact it does not even expect to
+Does not support audio and video. In fact, it does not even expect to
 complete a session. All this does is make a phone ring for up to a
 configurable number of seconds.
 
