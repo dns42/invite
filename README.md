@@ -11,6 +11,6 @@ doorbell button on my front door calls this.
 
 ## Example
 
-./invite \
+./invite
 	--user 610 --pass *** --realm fritz.box
 	--server harv 'sip:**611@fritz.box'
